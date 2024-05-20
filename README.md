@@ -1,12 +1,12 @@
  
 
-<h1 align="center">ꪶ𝐃𝐑𝐄𝐗-𝐁𝐎𝐓-𝐌𝐃-𝐕2ꫂ<br></h1>
+<h1 align="center">ꪶALCHEMIST-𝐁𝐎𝐓-𝐌𝐃-𝐕2ꫂ<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/63e6f85b9264e14222d8a.png" />
 </p>
 
 <p align="center">
-Drex Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/drexmose" target="_blank">Drex</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Alchemist Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/drexmose" target="_blank">Drex</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
